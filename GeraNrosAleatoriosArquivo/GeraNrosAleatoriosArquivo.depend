@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1524079702 source:/media/aluno/KINGSTON/AlgEstrDados II 2018-profElisa/GeraNrosAleatoriosArquivo/main.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+

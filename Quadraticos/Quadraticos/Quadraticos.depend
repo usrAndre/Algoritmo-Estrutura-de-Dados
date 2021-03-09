@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1522070433 source:c:\users\tiburcio\desktop\dados ii\quadraticos\quadraticos.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"quadraticos.h"
+
+1522121596 c:\users\tiburcio\desktop\dados ii\quadraticos\quadraticos.h
+
+1521510028 source:c:\users\tiburcio\desktop\dados ii\quadraticos\es.c
+	<stdio.h>
+	<stdlib.h>
+	"ES.h"
+
+1521507288 c:\users\tiburcio\desktop\dados ii\quadraticos\es.h
+
+1522121612 source:c:\users\tiburcio\desktop\dados ii\quadraticos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ES.h"
+	"quadraticos.h"
+

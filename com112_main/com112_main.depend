@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1524081888 source:c:\users\andré\documents\com112_main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
+1524086780 
+
+1524086780 source:c:\users\andré\documents\com112_main\file.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1524073817 source:c:\users\andré\documents\com112_main\sort.c
+
+1524273900 source:/media/aluno/KINGSTON/AlgEstrDados II 2018-profElisa/com112_main/main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
+1524273812 source:/media/aluno/KINGSTON/AlgEstrDados II 2018-profElisa/com112_main/sort.c
+
+1524273436 source:/media/aluno/KINGSTON/AlgEstrDados II 2018-profElisa/com112_main/file.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+
